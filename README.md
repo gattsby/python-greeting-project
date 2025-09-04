@@ -1,13 +1,22 @@
-echo "# Greeting Project
+# Greeting Project
 
-A tiny Python program that asks for your name/age and prints a greeting.
+This is my first Python project! 🎉  
+It asks for your name and age, then prints a greeting.
 
-## Run
-\`\`\`bash
+## How to Run
+In your terminal, run:
+
+```bash
 python3 greeting.py
-\`\`\`
-" > README.md
+What’s your name? Jake
+How old are you? 26
+Hi, my name is Jake and I am 26 years old.
+```
 
-git add README.md
-git commit -m "Add README"
-git push
+---
+
+That’s it. Just paste that directly into your **README.md** file and commit/save. It’ll render with:  
+- A nice title (`# Greeting Project`)  
+- A description  
+- A code block for the command  
+- An example interaction  
