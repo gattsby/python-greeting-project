@@ -1,6 +1,6 @@
 # Greeting Project
 
-This is my first Python project! 🎉  
+This is my first Python project  
 It asks for your name and age, then prints a greeting.
 
 ## How to Run
